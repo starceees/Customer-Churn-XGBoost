@@ -26,8 +26,8 @@ Customer churn is a critical business metric that directly impacts revenue. This
 
 | Model | AUC-ROC Score | Accuracy |
 |-------|--------------|----------|
-| **XGBoost** | 0.847 | 80.3% |
-| **Random Forest** | 0.832 | 79.1% |
+| **XGBoost** | 0.839 | 79.5% |
+| **Random Forest** | 0.837 | 79.7% |
 
 ### Key Insights
 
